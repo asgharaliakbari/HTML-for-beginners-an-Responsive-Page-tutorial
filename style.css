@@ -1,5 +1,4 @@
-@charset "utf-8";
-/* CSS Document */
+
 * {
   /* box-sizing property makes an element to stay in its width and height no matter how high its value of padding and border may get, it will not affect its width and height. */
   box-sizing: border-box;
